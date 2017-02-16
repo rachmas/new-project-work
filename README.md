@@ -1,15 +1,46 @@
 
 # new-project-work
 <html>
+<body>
+<table>
+<b><i>jmc</i></b>
+<tr>
+<th><b>page title</b></th>
+</tr>
+<tr>
+<th>meta description</th>                                                                                                                           <td> write proper description the length of meta description is 160 characters and provviding good content, good keywords selection,putting keywords on correct place,giving appropriate title to every page</td><br>
+</tr>
+<tr>
+<th>keywords test </th>                                                                                                                            <td> the keywords in the page should appear within natural sounding and grammatically correct copy we have write meta title with meta description</td><br>
+</tr>
+<tr>
+<th>image' alt' text </th>                                                                                                                           <th> required 'alt'attribute</th><br>
+</tr>
+<tr>
+<th>page authority</th>                                                                                                                              <td> page authority measures the predictive ranking strength of a single page it is good to have page authority more then 20</td><br>
+</tr>
+<tr>
 
-meta description                                                                                                                            write proper description the length of meta description is 160 characters and provviding good content, good keywords selection,putting keywords on correct place,giving appropriate title to every page<BR>
+<th>html page size text  </th>                                                                                                                     <td> html size will be 33 kb</td><br>
+</tr>
+<tr>
 
-keywords test                                                                                                                              the keywords in the page should appear within natural sounding and grammatically correct copy we have write meta title with meta description<BR>
+<th>domain authority</th>                                                                                                                              domain authority measures the strength of entire domains or subdomains it is good to have domain authority more then 20</td><br>
 
-image' alt' text                                                                                                                             required 'alt'attribute<BR>
+robots.txt
+404 page not found<br>
 
-page authority                                                                                                                               page authority measures the predictive ranking strength of a single page it is good to have page authority more then 20<BR>
+html page size
+1117kb<br>
 
-html page size text                                                                                                                        html size will be 33 kb<BR>
+html compression
+very good<br>
 
-domain authority                                                                                                                              domain authority measures the strength of entire domains or subdomains it is good to have domain authority more then 20<BR>
+size
+11.176kb<br>
+
+page rank
+0<br>
+
+age
+january21,2021,9:00.02utc<br>
